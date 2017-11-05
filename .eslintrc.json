@@ -216,7 +216,7 @@
         "quotes": "off",
         "radix": "error",
         "require-await": "error",
-        "require-jsdoc": "warn",
+        "require-jsdoc": "off",
         "rest-spread-spacing": "error",
         "semi": "off",
         "semi-spacing": "error",
