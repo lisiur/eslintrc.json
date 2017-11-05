@@ -211,7 +211,7 @@
         "prefer-reflect": "off",
         "prefer-rest-params": "off",
         "prefer-spread": "error",
-        "prefer-template": "error",
+        "prefer-template": "off",
         "quote-props": "off",
         "quotes": "off",
         "radix": "error",
