@@ -23,7 +23,7 @@
         "brace-style": "error",
         "callback-return": "error",
         "camelcase": "error",
-        "capitalized-comments": "error",
+        "capitalized-comments": "off",
         "class-methods-use-this": "error",
         "comma-dangle": "off",
         "comma-spacing": [
@@ -54,7 +54,7 @@
         "func-call-spacing": "error",
         "func-name-matching": "error",
         "func-names": [
-            "error",
+            "off",
             "never"
         ],
         "func-style": [
@@ -187,7 +187,7 @@
         "no-useless-concat": "error",
         "no-useless-constructor": "error",
         "no-useless-rename": "error",
-        "no-useless-return": "error",
+        "no-useless-return": "off",
         "no-var": "off",
         "no-void": "error",
         "no-warning-comments": "error",
